@@ -1,6 +1,6 @@
 ---
 - name: This Playbook to set-up Kubernetes using k3s
-  hosts: kubcluster
+  hosts: kubecluster
   become: true
   tasks:
 
